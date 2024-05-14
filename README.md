@@ -17,4 +17,7 @@ https://cvbuilder.me/resume/fa/10638339-54f0-452f-9666-87ba49ff7dea
 Facebook:
 https://www.facebook.com/mohamad.hasan.salmaaniyaan
 
+WhatsApp:
+https://wa.me/989130226121
+
 
