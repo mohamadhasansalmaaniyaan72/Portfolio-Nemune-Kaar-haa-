@@ -1,5 +1,5 @@
 Address (download)e nemune kaarhaa:
-https://www.dropbox.com/scl/fi/d3yj67bgzp16sf0jcm67h/.pdf?rlkey=zm4qz0hj3rfctas1ge54jvtm6&st=p6jfidfi&dl=1
+https://www.dropbox.com/scl/fi/d3yj67bgzp16sf0jcm67h/.pdf?rlkey=zm4qz0hj3rfctas1ge54jvtm6&st=h9pnyrwh&dl=1
 
 
 Telegram:
