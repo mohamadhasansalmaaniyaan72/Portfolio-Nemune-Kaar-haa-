@@ -7,12 +7,12 @@ https://twitter.com/salmaaniyaan72
 StackOverFlow:
 https://stackoverflow.com/users/9361476/mohamad-hasan-salmaaniyaan
 
+CV رزومه:
+https://cvbuilder.me/resume/fa/10638339-54f0-452f-9666-87ba49ff7dea
+
 
 Telegram:
 https://t.me/Mohamad_Hasan_Salmaaniyaan
-
-CV رزومه:
-https://cvbuilder.me/resume/fa/10638339-54f0-452f-9666-87ba49ff7dea
 
 Facebook:
 https://www.facebook.com/mohamad.hasan.salmaaniyaan
