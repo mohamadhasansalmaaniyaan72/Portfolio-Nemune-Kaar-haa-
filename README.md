@@ -1,5 +1,4 @@
-Address (download)e nemune kaarhaa:
-https://www.dropbox.com/scl/fi/d3yj67bgzp16sf0jcm67h/.pdf?rlkey=zm4qz0hj3rfctas1ge54jvtm6&st=h9pnyrwh&dl=1
+https://www.dropbox.com/scl/fi/x5q06ny3ita6ewgu8ik8c/Portfolio-Nemune-Kaar-haa.pdf?rlkey=s4mnipdj3o5tqak5j0mkq6yz1&st=0ietat43&dl=1
 
 Twitter (X):
 https://twitter.com/salmaaniyaan72
@@ -10,7 +9,7 @@ https://www.facebook.com/mohamad.hasan.salmaaniyaan
 StackOverFlow:
 https://stackoverflow.com/users/9361476/mohamad-hasan-salmaaniyaan
 
-CV رزومه:
+CV (Rezome):
 https://cvbuilder.me/resume/fa/10638339-54f0-452f-9666-87ba49ff7dea
 
 
