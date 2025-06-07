@@ -17,5 +17,5 @@ https://t.me/Mohamad_Hasan_Salmaaniyaan
 WhatsApp:
 https://wa.me/989130226121
 
-E-Gmail:
+E-G mail:
 mh.salmanian@gmail.com/mh.salmanian@yahoo.com
