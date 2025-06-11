@@ -1,5 +1,5 @@
 Twitter (X):
-https://twitter.com/salmaaniyaan72
+https://twitter.com/salmaaniyaan72 | https://x.com/salmaaniyaan72
 
 Facebook:
 https://www.facebook.com/mohamad.hasan.salmaaniyaan
