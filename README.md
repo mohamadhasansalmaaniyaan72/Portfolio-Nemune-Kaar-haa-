@@ -18,6 +18,3 @@ https://wa.me/989130226121
 
 Email:
 mh.salmanian@gmail.com | mh.salmanian@yahoo.com
-
-YouTube:
-https://youtube.com/@mohamadhasansalmaaniyaan
