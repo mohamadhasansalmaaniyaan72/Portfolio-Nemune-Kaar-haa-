@@ -7,7 +7,7 @@ https://www.facebook.com/mohamad.hasan.salmaaniyaan
 StackOverFlow:
 https://stackoverflow.com/users/5234401/mohamad-hasan-salmaaniyaan
 
-Question & CHallenges:
+Questions & CHallenges:
 https://github.com/issues
 
 CV (Rezome):
