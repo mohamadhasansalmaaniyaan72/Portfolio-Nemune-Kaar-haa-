@@ -8,7 +8,7 @@ StackOverFlow:
 https://stackoverflow.com/users/5234401/mohamad-hasan-salmaaniyaan
 
 Questions & CHallenges:
-https://github.com/issues
+https://github.com/mohamadhasansalmaaniyaan72/Questions-CHallenges/issues
 
 CV (Rezome):
 https://cvbuilder.me/resume/fa/10638339-54f0-452f-9666-87ba49ff7dea
