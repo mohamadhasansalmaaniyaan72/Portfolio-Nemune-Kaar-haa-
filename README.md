@@ -3,7 +3,7 @@
 </p>
   
 <p align='center'>
-  Mohamad Hasan Salmaaniyaan
+  <strong>Mohamad Hasan Salmaaniyaan</strong>
 </p>
 <div align="center">
   <table>
