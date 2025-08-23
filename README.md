@@ -48,14 +48,6 @@
             <p align='center'><a href="https://wa.me/989130226121"><kbd> <br> WhatsApp <br> </kbd></a></p>
       </td>
   </tr>
-
-  <tr>
-      <td colspan='2'>
-            <p align='center'><a href="https://www.youtube.com/@mohamadhasansalmaaniyaan"><kbd> <br> Youtube <br> </kbd></a></p>
-      </td>
-  </tr>
-
-  
   
   <tr>
       <td colspan='2'>
