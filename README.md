@@ -55,6 +55,12 @@
              <p align='center'><a href="https://t.me/Mohamad_Hasan_Salmaaniyaan"><kbd> <br> Telegram <br> </kbd></a></p>
        </td>
    </tr>
+
+   <tr>
+       <td colspan='2'>
+             <p align='center'><a href="https://www.youtube.com/@mohamadhasansalmaaniyaan"><kbd> <br> Youtube <br> </kbd></a></p>
+       </td>
+   </tr>
    
    <tr>
        <td colspan='2'>
