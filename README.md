@@ -94,10 +94,10 @@
  </table>
 
 Be Khaater ee Etminaan Va Ein ke Jomhuri Eslami ye Iran Saabeqe Dozdi Va Harum Zaade Budan Dar Vojud Afraad Aan Hast, Alaave Bar Einn Ke Source Poroxe Haa Raa
-Dozdide Ejaaze Nemidam Chizi Az Rezome-ei Ke Eijaad Kardam Va Mavaared i Ke Be Taazegi Hich Najes i Az Ein Afraad Azaw Estefaade Kon e.
+Dozdide Ejaaze Nemidam Chizi Az Rezome-ei Ke Eijaad Kardam Va Mavaared i Ke Be Taazegi Hich Najes i Az Ein Afraad Azaw Estefaade Kon e. (Perxen)
 
 ----
-Due to the need for certainty and the fact that the Islamic Republic of Iran has a history of theft and illegitimacy among its own people, and in addition to stealing my project source, I will not allow any part of the resume I have created and recently developed to be used by any of these unholy individuals.
+Due to the need for certainty and the fact that the Islamic Republic of Iran has a history of theft and illegitimacy among its own people, and in addition to stealing my project source, I will not allow any part of the resume I have created and recently developed to be used by any of these unholy individuals. (Engliw)
 
 <table>
  <tr>
@@ -130,13 +130,6 @@ Due to the need for certainty and the fact that the Islamic Republic of Iran has
   </td>
  </tr>
 </table>
-
-
-
-
-
-
-
 
 
 </div>
