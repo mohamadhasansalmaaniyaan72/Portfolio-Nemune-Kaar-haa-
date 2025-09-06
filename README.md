@@ -93,7 +93,7 @@
    </tr>
  </table>
 
-Be Khaater ee Etminaan Va Ein ke Jomhuri Eslami ye Iran Saabeqe Dozdi Va Harum Zaade Budan Dar Vojud Afraad Aan Hast, Alaave Bar Einn Ke Source Poroxe Haa Raa
+Be Khaater ee Etminaan Va Ein ke Jomhuri Eslami ye Iran Saabeqe Dozdi Va Harum Zaade Budan Dar Vojud Afraad Aan Hast, Alaave Bar Einn Ke Source Poroxe haa Raa
 Dozdide Ejaaze Nemidam Chizi Az Rezome-ei Ke Eijaad Kardam Va Mavaared i Ke Be Taazegi Hich Najes i Az Ein Afraad Azaw Estefaade Kon e. (Perxen)
 
 ----
