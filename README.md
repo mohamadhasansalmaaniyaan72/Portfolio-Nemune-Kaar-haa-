@@ -99,13 +99,44 @@ Dozdide Ejaaze Nemidam Chizi Az Rezome-ei Ke Eijaad Kardam Va Mavaared i Ke Be T
 ----
 Due to the need for certainty and the fact that the Islamic Republic of Iran has a history of theft and illegitimacy among its own people, and in addition to stealing my project source, I will not allow any part of the resume I have created and recently developed to be used by any of these unholy individuals.
 
+<table>
+ <tr>
+  <td>
+   Sh -> W = ش
+  </td>
+   
+  <td>
+   Zh -> X = ژ
+  </td>
 
-Sh -> W = ش
-Zh -> X = ژ
-Gh -> Q = غ,ق
-Kh -> خ
-Ei -> ایـ ،ای
-i -> ی
-W -> V = و
+  <td>
+   Gh -> Q = غ,ق
+  </td>
+
+  <td>
+   Kh -> خ
+  </td>
+
+  <td>
+   Ei -> ایـ ،ای
+  </td>
+
+  <td>
+   i -> ی
+  </td>
+
+  <td>
+   W -> V = و
+  </td>
+ </tr>
+</table>
+
+
+
+
+
+
+
+
 
 </div>
