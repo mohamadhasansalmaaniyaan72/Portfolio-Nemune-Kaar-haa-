@@ -104,6 +104,10 @@ Given the need for certainty and the fact that the Islamic Republic of Iran has 
   <td>
    Sh -> W = ش
   </td>
+
+  <td>
+   Ch -> چ
+  </td>
    
   <td>
    Zh -> X = ژ
