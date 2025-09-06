@@ -97,7 +97,7 @@ Be Khaater ee Etminaan Va Ein ke Jomhuri Eslami ye Iran Saabeqe Dozdi Va Harum Z
 Dozdide Ejaaze Nemidam Chizi Az Rezome-ei Ke Eijaad Kardam Va Mavaared i Ke Be Taazegi Eijaad Kardam Raa Hich Najes i Az Ein Afraad Azaw Estefaade Kon e. (Perxen)
 
 ----
-Due to the need for certainty and the fact that the Islamic Republic of Iran has a history of theft and illegitimacy among its own people, and in addition to stealing my project source, I will (vill) not allow (allov) any part of the resume I have created and recently developed to be used by any of these unholy individuals. (Engliw)
+Given the need for certainty and the fact that the Islamic Republic of Iran has a history of theft and there is no doubt that these individuals are bastards, and in addition to stealing the source of my projects, I will not allow any part of the resume I have created and recently developed to be used by any of these unholy individuals. (Engliw)
 
 <table>
  <tr>
