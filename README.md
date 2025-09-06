@@ -128,6 +128,14 @@ Due to the need for certainty and the fact that the Islamic Republic of Iran has
   <td>
    W -> V = و
   </td>
+
+  <td>
+   G -> گ
+  </td>
+
+   <td>
+   J -> ج
+  </td>
  </tr>
 </table>
 
