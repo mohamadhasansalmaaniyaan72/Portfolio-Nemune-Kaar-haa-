@@ -126,7 +126,7 @@ Given the need for certainty and the fact that the Islamic Republic of Iran has 
   </td>
 
   <td>
-   i -> ی
+   i -> ی ، یـ
   </td>
 
   <td>
@@ -149,6 +149,19 @@ Given the need for certainty and the fact that the Islamic Republic of Iran has 
   <td>
    A -> اَ
   </td>
+
+  <td>
+   ye ->  یـِ
+  </td>
+
+  <td>
+   yo -> یـُ
+  </td>
+
+  <td>
+   yaa -> یا
+  </td>
+  
  </tr>
 </table>
 
