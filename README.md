@@ -141,6 +141,15 @@ Given the need for certainty and the fact that the Islamic Republic of Iran has 
    J -> ج
   </td>
  </tr>
+
+ <tr>
+  <td>
+   Aa -> آ
+  </td>
+  <td>
+   A -> اَ
+  </td>
+ </tr>
 </table>
 
 
