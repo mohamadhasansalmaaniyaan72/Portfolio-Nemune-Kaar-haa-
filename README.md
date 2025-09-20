@@ -37,13 +37,19 @@
              <p align='center'><a href="https://stackoverflow.com/users/5234401/mohamad-hasan-salmaaniyaan" target="_blank"><kbd> <br> Stack Overflow <br> </kbd></a></p>
        </td>
    </tr>
+
+   <tr>
+       <td colspan='2'>
+             <p align='center'><a href="https://cvbuilder.me/resume/fa/10638339-54f0-452f-9666-87ba49ff7dea" target="_blank"><kbd> <br> CV (Rezome)-Old <br> </kbd></a></p>
+       </td>
+   </tr>
   
    <tr>
        <td colspan='2'>
              <p align='center'><a href="https://cvbuilder.me/portfolio/5v1az1" target="_blank"><kbd> <br> CV (Rezome) <br> </kbd></a></p>
        </td>
    </tr>
-    
+   
    <tr>
        <td colspan='2'>
              <p align='center'><a href="https://www.facebook.com/mohamad.hasan.salmaaniyaan" target="_blank"><kbd> <br> Facebook <br> </kbd></a></p>
