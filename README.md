@@ -1,9 +1,9 @@
 <p align='center'>
- <img src="https://lh3.googleusercontent.com/a/ACg8ocKU6LTF-Ba4aBVlLdnogNVDczyhSwQZHi63tCOLbno2pvLR6fJB=s150-c-no">
+ <img src="https://lh3.googleusercontent.com/a/ACg8ocKU6LTF-Ba4aBVlLdnogNVDczyhSwQZHi63tCOLbno2pvLR6fJB=s150-c-no" width='120'>
 </p>
   
 <p align='center'>
-  <strong>Mohamad Hasan Salmaaniyaan</strong>
+  <strong>------ Mohamad Hasan Salmaaniyaan ------</strong>
 </p>
 <div align="center">
    <table>
