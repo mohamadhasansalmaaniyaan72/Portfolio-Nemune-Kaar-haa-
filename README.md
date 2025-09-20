@@ -40,7 +40,7 @@
   
    <tr>
        <td colspan='2'>
-             <p align='center'><a href="https://cvbuilder.me/resume/fa/10638339-54f0-452f-9666-87ba49ff7dea"><kbd> <br> CV (Rezome) <br> </kbd></a></p>
+             <p align='center'><a href="https://cvbuilder.me/portfolio/5v1az1"><kbd> <br> CV (Rezome) <br> </kbd></a></p>
        </td>
    </tr>
     
