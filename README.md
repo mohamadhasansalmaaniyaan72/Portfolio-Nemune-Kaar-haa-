@@ -1,10 +1,10 @@
 <p align='center'>
- <img src="https://lh3.googleusercontent.com/a/ACg8ocKU6LTF-Ba4aBVlLdnogNVDczyhSwQZHi63tCOLbno2pvLR6fJB=s150-c-no" width='120'>
+ <img src="https://lh3.googleusercontent.com/a/ACg8ocKU6LTF-Ba4aBVlLdnogNVDczyhSwQZHi63tCOLbno2pvLR6fJB=s150-c-no" width='120' height='130'>
 </p>
-  
 <p align='center'>
-  <strong>------ Mohamad Hasan Salmaaniyaan ------</strong>
+ <strong> Mohamad   Hasan   Salmaaniyaan </strong>
 </p>
+
 <div align="center">
    <table>
     
@@ -94,7 +94,7 @@
  </table>
 
 Be KHaater ee Etminaan Va Ein ke Jomhuri Eslami ye Iran Saabeqe Dozd i Va Harum Zaade Budan Dar Vojud Afraad Aan Hast, Alaave Bar Ein Ke Source-ee Poroxe haa Raa
-Dozdid ee Ejaaze Nemidam CHizi Az Rezome-ei Ke Eijaad Kardam Va Mavaared i Ke Be Taaze gi Eijaad Kardam Raa Hich Najes i Az Ein Afraad Azaw Estefaade Kon e. (Perxen)
+Dozdid ee Ejaaze Nemidam CHizi Az Rezome-ei Ke Eijaad Kardam Va Mavaared i Ke Be Taazegi Eijaad Kardam Raa Hich Najes i Az Ein Afraad Azaw Estefaade Kon e. (Perxen)
 
 ----
 Given the need for certainty and the fact that the Islamic Republic of Iran has a history of theft and there is no doubt that these individuals are bastards, and in addition (addiwen) to stealing the source of my projects, I will (vill) not allow (allov) any part of the resume I have created and recently developed to be used by any of these unholy individuals. (Engliw)
