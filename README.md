@@ -22,73 +22,73 @@
 
   <tr>
        <td colspan='2'>
-             <p align='center'><a href="https://learn.microsoft.com/en-us/users/mohammadhasansalmanian-5415/" target="blank"><kbd> <br> Microsoft (Hotmail) <br> </kbd></a></p>
+             <p align='center'><a href="https://learn.microsoft.com/en-us/users/mohammadhasansalmanian-5415/" target="_blank"><kbd> <br> Microsoft (Hotmail) <br> </kbd></a></p>
        </td>
   </tr>
  
   <tr>
        <td colspan='2'>
-             <p align='center'><a href="https://learn.microsoft.com/en-us/users/mohamadhasansalmaaniyaan-1957/" target="blank"><kbd> <br> Microsoft (Outlook) <br> </kbd></a></p>
+             <p align='center'><a href="https://learn.microsoft.com/en-us/users/mohamadhasansalmaaniyaan-1957/" target="_blank"><kbd> <br> Microsoft (Outlook) <br> </kbd></a></p>
        </td>
   </tr>
    
    <tr>
        <td colspan='2'>
-             <p align='center'><a href="https://stackoverflow.com/users/5234401/mohamad-hasan-salmaaniyaan" target="blank"><kbd> <br> Stack Overflow <br> </kbd></a></p>
+             <p align='center'><a href="https://stackoverflow.com/users/5234401/mohamad-hasan-salmaaniyaan" target="_blank"><kbd> <br> Stack Overflow <br> </kbd></a></p>
        </td>
    </tr>
   
    <tr>
        <td colspan='2'>
-             <p align='center'><a href="https://cvbuilder.me/portfolio/5v1az1" target="blank"><kbd> <br> CV (Rezome) <br> </kbd></a></p>
+             <p align='center'><a href="https://cvbuilder.me/portfolio/5v1az1" target="_blank"><kbd> <br> CV (Rezome) <br> </kbd></a></p>
        </td>
    </tr>
     
    <tr>
        <td colspan='2'>
-             <p align='center'><a href="https://www.facebook.com/mohamad.hasan.salmaaniyaan" target="blank"><kbd> <br> Facebook <br> </kbd></a></p>
+             <p align='center'><a href="https://www.facebook.com/mohamad.hasan.salmaaniyaan" target="_blank"><kbd> <br> Facebook <br> </kbd></a></p>
        </td>
    </tr>
 
    <tr>
        <td colspan='2'>
-             <p align='center'><a href="https://www.youtube.com/@mohamadhasansalmaaniyaan" target="blank"><kbd> <br> Youtube <br> </kbd></a></p>
+             <p align='center'><a href="https://www.youtube.com/@mohamadhasansalmaaniyaan" target="_blank"><kbd> <br> Youtube <br> </kbd></a></p>
        </td>
    </tr>
    
    <tr>
        <td colspan='2'>
-             <p align='center'><a href="https://t.me/Mohamad_Hasan_Salmaaniyaan" target="blank"><kbd> <br> Telegram <br> </kbd></a></p>
+             <p align='center'><a href="https://t.me/Mohamad_Hasan_Salmaaniyaan" target="_blank"><kbd> <br> Telegram <br> </kbd></a></p>
        </td>
    </tr>
    
    <tr>
        <td colspan='2'>
-             <p align='center'><a href="https://wa.me/989130226121" target="blank"><kbd> <br> WhatsApp <br> </kbd></a></p>
+             <p align='center'><a href="https://wa.me/989130226121" target="_blank"><kbd> <br> WhatsApp <br> </kbd></a></p>
        </td>
    </tr>
    
    <tr>
        <td colspan='2'>
-             <p align='center'><a href="mailto:mh.salmanian@gmail.com" target="blank"><kbd> <br> Gmail <br> </kbd></a></p>
+             <p align='center'><a href="mailto:mh.salmanian@gmail.com" target="_blank"><kbd> <br> Gmail <br> </kbd></a></p>
        </td>
    </tr>
    
    <tr>
        <td colspan='2'>
-             <p align='center'><a href="mailto:mh.salmanian@yahoo.com" target="blank"><kbd> <br> Yahoo <br> </kbd></a></p>
+             <p align='center'><a href="mailto:mh.salmanian@yahoo.com" target="_blank"><kbd> <br> Yahoo <br> </kbd></a></p>
        </td>
    </tr>
    
    <tr>
        <td colspan='2'>
-         <p align='center'><a href="https://twitter.com/salmaaniyaan72" target="blank"><kbd> <br> Twitter <br> </kbd></a></p>
+         <p align='center'><a href="https://twitter.com/salmaaniyaan72" target="_blank"><kbd> <br> Twitter <br> </kbd></a></p>
        </td>
    </tr>
    
    <tr>
        <td colspan='2'>
-             <p align='center'><a href="https://x.com/salmaaniyaan72" target="blank"><kbd> <br> X <br> </kbd></a></p>
+             <p align='center'><a href="https://x.com/salmaaniyaan72" target="_blank"><kbd> <br> X <br> </kbd></a></p>
        </td>
    </tr>
  </table>
