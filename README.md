@@ -1,5 +1,5 @@
 <p align='center'>
- <img src="https://lh3.googleusercontent.com/a/ACg8ocKU6LTF-Ba4aBVlLdnogNVDczyhSwQZHi63tCOLbno2pvLR6fJB=s150-c-no" width='120' height='130'>
+ <img src="https://lh3.googleusercontent.com/a/ACg8ocKU6LTF-Ba4aBVlLdnogNVDczyhSwQZHi63tCOLbno2pvLR6fJB=s150-c-no" width='130' height='130'>
 </p>
 <p align='center'>
  <strong> Mohamad   Hasan   Salmaaniyaan </strong>
