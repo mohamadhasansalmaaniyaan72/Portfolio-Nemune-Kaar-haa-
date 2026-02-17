@@ -108,23 +108,23 @@ Given the need for certainty and the fact that the Islamic Republic of Iran has 
 <table>
  <tr>
   <td>
-   Sh -> W = ش
+   SH -> W = ش
   </td>
 
   <td>
-   Ch -> چ
+   CH -> چ
   </td>
    
   <td>
-   Zh -> X = ژ
+   ZH -> X = ژ
   </td>
 
   <td>
-   Gh -> Q = غ,ق
+   GH -> Q = غ,ق
   </td>
 
   <td>
-   Kh -> خ
+   KH -> خ
   </td>
 
   <td>
