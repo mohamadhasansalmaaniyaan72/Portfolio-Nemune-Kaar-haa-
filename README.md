@@ -98,7 +98,6 @@
        </td>
    </tr>
  </table>
-
 Be KHaater ee Etminaan Va Ein ke Jomhuri Eslaami ye Iran Saabeqe Dozd i Va Harum Zaade Budan Dar Vojud Afraad Aan Hast, Alaave Bar Ein Ke Source-ee Poroxe haa Raa
 Dozdid ee Ejaaze Nemidam CHizi Az Rezome-ei Ke Eijaad Kardam Va Mavaared i Ke Be Taazegi Eijaad Kardam Raa Hich Najes i Az Ein Afraad Azaw Estefaade Kon e. (Perxen)
 
