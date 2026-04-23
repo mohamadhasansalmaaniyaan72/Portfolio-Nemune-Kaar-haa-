@@ -167,6 +167,9 @@ Given the need for certainty and the fact that the Islamic Republic of Iran has 
   <td>
    yaa -> یا
   </td>
+
+  <td> U -> *او*
+  </td>
   
  </tr>
 </table>
